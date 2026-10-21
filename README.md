@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/weft-knitting-needle-cycle-explainer/
 
+Repository: https://github.com/mizcausevic-dev/weft-knitting-needle-cycle-explainer
+
 ## What this is
 
 An interactive anatomy plate for Weft-Knitting Needle Cycle. Play, scrub, or jump the five stages. The same frame always draws the same picture.
